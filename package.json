@@ -1,0 +1,22 @@
+{
+  "name": "translation-app-simplified",
+  "version": "1.0.0",
+  "description": "Simplified version of the app to get used to the experience.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ForestaFunza/translation-app-simple.git"
+  },
+  "keywords": [
+    "translate"
+  ],
+  "author": "Chia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ForestaFunza/translation-app-simple/issues"
+  },
+  "homepage": "https://github.com/ForestaFunza/translation-app-simple#readme"
+}
